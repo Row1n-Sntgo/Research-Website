@@ -1,0 +1,12 @@
+.Hr{
+    color:red;
+    font-size:40px;
+    font-family: fantasy;
+    text-align: center;
+}
+Hr:hover::after{
+    color:skyblue
+}
+.Mr{
+    text-align: center;
+}
